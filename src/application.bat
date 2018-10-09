@@ -1,1 +1,1 @@
-echo "Version1"
+echo "Version1, Build : 10:00"
